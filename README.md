@@ -67,6 +67,18 @@
   </a> 
 </p>
 
+### 👉 Backend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+  </a> 
+</p>
+
  ### 👉 Software & Tools
  
 <p align="center">
