@@ -46,7 +46,7 @@
     <img alt="C#" src="https://img.shields.io/badge/C%20Sharp%20-%2345654C.svg?style=plastic&logo=csharp&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.learncs.org/" target="_blank">
+   <a href="https://www.php.net/docs.php" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
   </a>
 </p>
@@ -65,16 +65,20 @@
   <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://shields.io/badge/React%20-%130572B6.svg?style=plastic&logo=react&logoColor=white">
   </a> 
+  &emsp;
+  <a href="https://redux.js.org/" target="_blank">
+    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Backend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"> 
    <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://laravel.com/docs/7.x" target="_blank">
     <img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
   </a> 
 </p>
