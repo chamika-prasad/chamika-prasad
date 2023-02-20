@@ -66,6 +66,10 @@
     <img alt="React" src="https://shields.io/badge/React%20-%130572B6.svg?style=plastic&logo=react&logoColor=white">
   </a> 
   &emsp;
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
+  </a> 
+  &emsp;
   <a href="https://redux.js.org/" target="_blank">
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white">
   </a>
