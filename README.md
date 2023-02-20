@@ -45,6 +45,10 @@
    <a href="https://www.learncs.org/" target="_blank">
     <img alt="C#" src="https://img.shields.io/badge/C%20Sharp%20-%2345654C.svg?style=plastic&logo=csharp&logoColor=white">
   </a>
+  &emsp;
+   <a href="https://www.learncs.org/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frontend Development
