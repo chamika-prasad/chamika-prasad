@@ -47,7 +47,7 @@
   </a>
   &emsp;
    <a href="https://www.learncs.org/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/php%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
   </a>
 </p>
 
