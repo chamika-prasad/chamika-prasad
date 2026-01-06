@@ -1,18 +1,12 @@
-<h1 align="center">Hi , I'm Chamika Prasad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-
-
-<br>
+<h1 align="center">Hi , I'm Chamika Prasad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+at+VitalHub;IT+Graduate+from+University+of+Moratuwa;Competitive+Programmer;Always+learning+new+things&center=true&width=600&height=50"> </a> </p> <br>
 
 ## :sassy_man:  About me
-- :school: I am a student of University of Moratuwa, Faculty of Information Technology
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer 
-- :student: I’m currently completing my bachelor's BSc (Hons) in Information Technology program
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](#).
-- :nerd_face: Always `learning new things`
+- :school: I’m a graduate of University of Moratuwa, Faculty of Information Technology
+- :technologist: I love using software as a solution for real-world `Problem`
+- :computer: Competitive programmer with strong analytical and problem-solving skills 
+- :briefcase: Currently working as a Software Engineer at VitalHub (Pvt) Ltd
+- :thinking: Open to challenging projects and long-term career growth opportunities
+- :nerd_face: Always `learning new technologies` and improving my craft
 
 <br>
 
